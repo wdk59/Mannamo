@@ -74,6 +74,7 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Exclude Large size Asset files
+Content/BasicAssets/*
 Content/ThirdPerson/*
 Content/FirstPerson/*
 Content/TopDown/*
